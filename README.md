@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khodornahhas&show_icons=true&theme=radical)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=khodornahhas&theme=radical)
+
+### 🚀 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khodornahhas&layout=compact&theme=radical)
+
 <!--
 **khodornahhas/Khodornahhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
