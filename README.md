@@ -1,6 +1,6 @@
 
 
-![GitHub Stats](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)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khodornahhas&show_icons=true&theme=radical)
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=khodornahhas&theme=radical)
