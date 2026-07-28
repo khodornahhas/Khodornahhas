@@ -6,7 +6,6 @@ Full-stack developer based in Beirut. Computer Science graduate
 (Rafik Hariri University, 2026). I build e-commerce and business web
 applications — mostly Laravel/PHP and ASP.NET Core.
 
-Currently looking for a junior software engineering role.
 
 ### What I've built
 
