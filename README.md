@@ -3,7 +3,6 @@
 <p align="center">
 Full-stack developer based in Beirut 🇱🇧 · Computer Science graduate, 2026<br>
 I build e-commerce and business web applications in Laravel and ASP.NET Core.<br>
-<b>Currently looking for a junior software engineering role.</b>
 </p>
 
 <p align="center">
