@@ -8,7 +8,6 @@ I build e-commerce and business web applications in Laravel and ASP.NET Core.<br
 <p align="center">
 <a href="https://linkedin.com/in/khodor-nahhas-834864399"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:khodornahhas8@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://selectron.ws/home"><img src="https://img.shields.io/badge/Live_Project-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 </p>
 
 ---
