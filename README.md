@@ -2,8 +2,7 @@
 
 ## Hi, I'm Khodor 👋
 
-Full-stack developer based in Beirut. Computer Science graduate
-(Rafik Hariri University, 2026). I build e-commerce and business web
+Full-stack developer based in Beirut. Computer Science graduate, I build e-commerce and business web
 applications — mostly Laravel/PHP and ASP.NET Core.
 
 
@@ -13,12 +12,12 @@ applications — mostly Laravel/PHP and ASP.NET Core.
 EF Core, PostgreSQL, unit tested with xUnit, CI via GitHub Actions.
 Built during my internship at Aspire Software.
 
-**[Selectron](https://selectron.ws/home)** — Laravel + MySQL e-commerce
+**[Selectron]** — Laravel + MySQL e-commerce
 platform. Auth, admin dashboard, product CRUD, cart and checkout. Built
-and deployed solo — live and in use since launch. *(private repo, client work)*
+and deployed solo — live and in use since launch. *Link: https://selectron.ws*
 
 **Go Global Estates** — Laravel/Blade corporate site for a real estate
-developer, built from client designs. *(private repo, client work)*
+developer, built from client designs. *Link: https://goglobalestates.com*
 
 **University & Career Recommendation System** — final year project.
 Hybrid recommender with explainable output plus an AI chatbot.
