@@ -3,13 +3,11 @@
 <p align="center">
 Full-stack developer based in Beirut 🇱🇧 · Computer Science graduate, 2026<br>
 I build e-commerce and business web applications in Laravel and ASP.NET Core.<br>
-<b>Currently looking for a junior software engineering role.</b>
 </p>
 
 <p align="center">
 <a href="https://linkedin.com/in/khodor-nahhas-834864399"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="mailto:khodornahhas8@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-<a href="https://selectron.ws/home"><img src="https://img.shields.io/badge/Live_Project-000000?style=flat-square&logo=googlechrome&logoColor=white"></a>
 </p>
 
 ---
@@ -21,8 +19,6 @@ I build e-commerce and business web applications in Laravel and ASP.NET Core.<br
 **[Selectron](https://selectron.ws/home)** — Laravel + MySQL e-commerce platform. Auth, admin dashboard, product CRUD, cart and checkout. Built and deployed solo — live and in use since launch. *(private repo, client work)*
 
 **Go Global Estates** — Laravel/Blade corporate site for a real estate developer, built from client designs. *(private repo, client work)*
-
-**[University & Career Recommendation System](https://github.com/bissanalmiari/Fyp_Project)** — final year project. Hybrid recommender with explainable output plus an AI chatbot. PostgreSQL backend, evaluated with Precision, Recall, F1, and RMSE.
 
 ---
 ### 🛠️ Tech Stack
