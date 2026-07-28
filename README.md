@@ -12,7 +12,7 @@ applications — mostly Laravel/PHP and ASP.NET Core.
 EF Core, PostgreSQL, unit tested with xUnit, CI via GitHub Actions.
 Built during my internship at Aspire Software.
 
-**[Selectron]** — Laravel + MySQL e-commerce
+**Selectron** — Laravel + MySQL e-commerce
 platform. Auth, admin dashboard, product CRUD, cart and checkout. Built
 and deployed solo — live and in use since launch. *Link: https://selectron.ws*
 
