@@ -1,24 +1,35 @@
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khodornahhas&show_icons=true&theme=radical)
+## Hi, I'm Khodor 👋
 
+Full-stack developer based in Beirut. Computer Science graduate
+(Rafik Hariri University, 2026). I build e-commerce and business web
+applications — mostly Laravel/PHP and ASP.NET Core.
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=khodornahhas&theme=radical)
+Currently looking for a junior software engineering role.
 
+### What I've built
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khodornahhas&layout=compact&theme=radical)
+**Buyit** — .NET e-commerce REST API. Clean Architecture with CQRS/MediatR,
+EF Core, PostgreSQL, unit tested with xUnit, CI via GitHub Actions.
+Built during my internship at Aspire Software.
 
-<!--
-**khodornahhas/Khodornahhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[Selectron](https://selectron.ws/home)** — Laravel + MySQL e-commerce
+platform. Auth, admin dashboard, product CRUD, cart and checkout. Built
+and deployed solo — live and in use since launch. *(private repo, client work)*
 
-Here are some ideas to get you started:
+**Go Global Estates** — Laravel/Blade corporate site for a real estate
+developer, built from client designs. *(private repo, client work)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**University & Career Recommendation System** — final year project.
+Hybrid recommender with explainable output plus an AI chatbot.
+PostgreSQL backend, evaluated with Precision, Recall, F1, and RMSE.
+
+### Stack
+
+**Backend** Laravel · ASP.NET Core · Entity Framework Core · REST APIs
+**Frontend** React · TypeScript · Tailwind CSS · Blade
+**Data** PostgreSQL · MySQL · Redis
+**Tools** Docker · GitHub Actions · xUnit · Git
+
+📫 khodornahhas8@gmail.com
