@@ -26,9 +26,9 @@ PostgreSQL backend, evaluated with Precision, Recall, F1, and RMSE.
 
 ### Stack
 
-**Backend** Laravel · ASP.NET Core · Entity Framework Core · REST APIs
-**Frontend** React · TypeScript · Tailwind CSS · Blade
-**Data** PostgreSQL · MySQL · Redis
-**Tools** Docker · GitHub Actions · xUnit · Git
+- **Backend** — Laravel · ASP.NET Core · Entity Framework Core · REST APIs
+- **Frontend** — React · TypeScript · Tailwind CSS · Blade
+- **Data** — PostgreSQL · MySQL · Redis
+- **Tools** — Docker · GitHub Actions · xUnit · Git
 
 📫 khodornahhas8@gmail.com
